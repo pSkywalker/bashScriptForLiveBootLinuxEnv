@@ -57,7 +57,7 @@ sudo npm i -g firebase-tools
 sudo npm i -g typescript
 
 # Install OpenJDK 17
-apt install -y openjdk-17-jdk
+sudo apt install -y openjdk-17-jdk
 
 # Verify the installation
 java -version
